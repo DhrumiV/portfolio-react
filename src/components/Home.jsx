@@ -28,7 +28,7 @@ const Home = () => {
             <div className="right" data-aos="fade-up-left"
      data-aos-duration="1000">
                 <div className="img">
-                    <img src="/assets/girllaptop.png" alt="Myimage" />
+                    <img src="./assets/girllaptop.png" alt="Myimage" />
                 </div>
             </div>
         </div>
