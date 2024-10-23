@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.69c42735.css",
+    "main.js": "/portfolio-react/static/js/main.2fbbaf36.js",
+    "static/js/453.8345df98.chunk.js": "/portfolio-react/static/js/453.8345df98.chunk.js",
+    "static/media/DhrumiVaidyaResume.pdf": "/portfolio-react/static/media/DhrumiVaidyaResume.84d853579c45ea356242.pdf",
+    "index.html": "/portfolio-react/index.html",
+    "main.69c42735.css.map": "/portfolio-react/static/css/main.69c42735.css.map",
+    "main.2fbbaf36.js.map": "/portfolio-react/static/js/main.2fbbaf36.js.map",
+    "453.8345df98.chunk.js.map": "/portfolio-react/static/js/453.8345df98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c42735.css",
+    "static/js/main.2fbbaf36.js"
+  ]
+}
