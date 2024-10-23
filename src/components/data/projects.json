@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "projectName": "VirtuRecruit Website",
+    "description": "An online Interview Platform that allows users to hire candidates and give interivew from anywhere aroud the Country .",
+    "technologiesUsed": ["HTML", "CSS", "JavaScript","Bootstrap","MongoDB", "Express.js", "React", "Node.js"],
+    "projectLink": "https://example.com/ecommerce",
+    "projectImage": "virturecruit.png"
+  },
+  {
+    "id": 2,
+    "projectName": "DocEase",
+    "description": "An online pre-order printing service website that enables users to place orders in advance and collect orders on time saving them from the hassle of standing in queues.",
+    "technologiesUsed": ["HTML","CSS","JavaScript","Bootstrap"],
+    "projectLink": "https://example.com/blog",
+    "projectImage": "docease.jpg"
+  },
+  {
+    "id": 3,
+    "projectName": "Portfolio Website",
+    "description": "Personal portfolio showcasing projects and skills.",
+    "technologiesUsed": ["HTML", "CSS", "JavaScript","ReactJs"],
+    "projectLink": "https://example.com/portfolio",
+    "projectImage": "portfolio.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "degree": "Bachelor's of Engineering in IT",
+      "institution": "GECG",
+      "year": "2022-Present",
+      "CGPA": 9.3,
+      "extradata":"Student Placement Cordinator",
+      "imageUrl": "gtulogo.png"
+    },
+    {
+      "id": 2,
+      "degree": "Diploma of Engineering in IT",
+      "institution": "RC Technical Institute",
+      "year": "2019-2022",
+      "CGPA": 9.76,
+      "extradata":"Institute Branch Topper",
+      "imageUrl": "gtulogo.png"
+    },
+    {
+      "id": 3,
+      "degree": "SSC",
+      "institution": "St. Blaze English School",
+      "year": 2019,
+      "CGPA": 7.3,
+      "imageUrl": "gseblogo.jpeg"
+    }
+  ]
+  

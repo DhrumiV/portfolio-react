@@ -1,0 +1,53 @@
+{
+    "technicalSkills": [
+        {
+          "id":1,
+          "name": "HTML",
+          "imageUrl": "html.png"
+        },
+        {
+          "id":2,
+          "name": "CSS",
+          "imageUrl": "css.png"
+        },
+        {
+          "id":3,
+          "name": "JavaScript",
+          "imageUrl": "js.png"
+        },
+        {
+          "id":4,
+          "name": "ReactJS",
+          "imageUrl": "reactjs.png"
+        },
+       
+        {
+          "id":5,
+          "name": "Bootstrap",
+          "imageUrl": "bootstrap.png"
+        }
+      ],
+    "softSkills": [
+      {
+        "id":6,
+        "name": "Communication",
+        "imageUrl": "communication.png"
+      },
+      {
+        "id":7,
+        "name": "People- Managment",
+        "imageUrl": "peoplemanagement.png"
+      },
+      {
+        "id":8,
+        "name": "Problem-Solving",
+        "imageUrl": "problemsolving.png"
+      },
+      {
+        "id":9,
+        "name": "Creative Thinking",
+        "imageUrl": "bulb.png"
+      }
+    ]
+
+  }
