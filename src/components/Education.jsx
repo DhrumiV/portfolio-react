@@ -11,7 +11,7 @@ const Education = () => {
             <>
               <div key={data.id} className="edu-item" data-aos="zoom-in-up" data-duration="1000">
                 <div className="left">
-                  <img src={`/assets/${data.imageUrl}`} alt="university logo" />
+                  <img src={`./assets/${data.imageUrl}`} alt="university logo" />
                 </div>
                 <div className="right">
                   <h3>

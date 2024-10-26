@@ -14,7 +14,7 @@ const Contact = () => {
      data-aos-duration="1000">
                     <a href="mailto:dhrumi.vaidy@gmail.com" target="_blank" rel="noopener noreferrer">
                         <div className="items"><BiLogoGmail className='icons' /></div></a>
-                    <a href="www.linkedin.com/in/dhrumi-vaidya" target='_blank' rel="noopener noreferrer">
+                    <a href="https://linkedin.com/in/dhrumi-vaidya" target='_blank' rel="noopener noreferrer">
                     <div className="items"><FaLinkedin className='icons' /></div></a>
                     <a href="https://github.com/DhrumiV" target='_blank' rel="noopener noreferrer"><div className="items"><FaGithub className='icons' /></div></a>
                     <a href="https://whatsapp.com" target='_blank' rel="noopener noreferrer"><div className="items"><FaWhatsapp className='icons' /></div></a>

@@ -12,7 +12,7 @@ const Skills = () => {
         <div className="items" >
           {skills.softSkills.map((data) => (
             <div className="item" key={data.id} data-aos="flip-right" data-duration="1000">
-              <img src={`/assets/${data.imageUrl}`} alt={data.name} />
+              <img src={`./assets/${data.imageUrl}`} alt={data.name} />
               <h3>{data.name}</h3>
             </div>
           ))}
@@ -25,7 +25,7 @@ const Skills = () => {
         <div className="items" data-aos="flip-right" data-duration="1000">
           {skills.technicalSkills.map((data) => (
             <div className="item" key={data.id}>
-              <img src={`/assets/${data.imageUrl}`} alt={data.name} />
+              <img src={`./assets/${data.imageUrl}`} alt={data.name} />
               <h3>{data.name}</h3>
             </div>
           ))}
